@@ -1,0 +1,33 @@
+{
+  "name": "nuxt-favicon-generator",
+  "version": "0.5.0",
+  "description": "Nuxt module that generates the various favicons, tiles, touch icons at whatever size from one source image",
+  "main": "favicon.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pzl/nuxt-favicon-generator"
+  },
+  "keywords": [
+    "nuxt",
+    "favicon",
+    "vue",
+    "vuejs",
+    "module",
+    "sharp",
+    "tile",
+    "icon",
+    "generator"
+  ],
+  "author": "Dan Panzarella",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pzl/nuxt-favicon-generator/issues"
+  },
+  "homepage": "https://github.com/pzl/nuxt-favicon-generator#readme",
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "sharp": "^0.20.0",
+    "to-ico": "^1.1.5"
+  }
+}
